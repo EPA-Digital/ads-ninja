@@ -1,0 +1,6 @@
+pandas
+polars
+python-dotenv
+facebook-business
+google-analytics-data
+google-ads-api-report-fetcher

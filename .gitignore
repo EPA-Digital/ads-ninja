@@ -1,0 +1,7 @@
+*.env
+*.json
+*.yaml
+*.yml
+/.venv
+.DS_Store
+*.pyc

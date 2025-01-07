@@ -17,11 +17,11 @@ Este repositorio contiene el material y códigos del curso "Ads Ninja: Python pa
 - Limpieza de datasets
 - Análisis exploratorio
 - Visualización básica
+- Joins
 
 ### Módulo 3: Automatización de Reportes
 - Automatización de hojas de cálculo
 - Generación de reportes automatizados
-- Envío automático de emails
 - Scheduling de tareas
 
 ### Módulo 4: Integración con APIs de Marketing

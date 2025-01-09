@@ -1,64 +1,108 @@
-# Ads Ninja: Python para Marketers 🚀
+# Ads Ninja: Python para Marketers 🥷💻
 
-Este repositorio contiene el material y códigos del curso "Ads Ninja: Python para Marketers", diseñado para ayudar a profesionales del marketing digital a automatizar y optimizar sus tareas diarias usando Python.
+![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Activo-success)
+
+## 🎯 Descripción
+
+Ads Ninja es un curso práctico diseñado para profesionales del marketing digital que desean potenciar sus habilidades con Python. Aprenderás a automatizar tareas, analizar datos y crear herramientas personalizadas para optimizar campañas publicitarias.
+
+## ✨ Lo que aprenderás
+
+- 🐍 Programación en Python desde cero
+- 📊 Análisis de datos con Polars
+- 🤖 Automatización de reportes
+- 🔌 Integración con APIs (Google Ads, Facebook Ads, GA4)
+- 📈 Desarrollo de dashboards con Streamlit
+- 🧠 IA Generativa aplicada al marketing
 
 ## 📚 Estructura del Curso
 
-### Módulo 1: Introducción a la Programación con Python
-- Fundamentos de programación
-- Instalación y configuración del entorno
-- Conceptos básicos de Python
-- Variables y tipos de datos
-- Estructuras de control
+El curso está organizado en 8 módulos, cada uno con notebooks interactivos que combinan teoría y práctica:
 
-### Módulo 2: Análisis de Datos con Python
-- Introducción a Pandas y Polars
-- Manipulación de datos
-- Limpieza de datasets
-- Análisis exploratorio
-- Visualización básica
-- Joins
+1. **Introducción a la Programación con Python**
+   - Fundamentos de programación
+   - Entornos de desarrollo
+   - Estructuras de datos y control
 
-### Módulo 3: Automatización de Reportes
-- Automatización de hojas de cálculo
-- Generación de reportes automatizados
-- Scheduling de tareas
+2. **Automatización con Python y Google Sheets**
+   - Google Apps Script
+   - Automatización en la nube
+   - Generación de reportes
 
-### Módulo 4: Integración con APIs de Marketing
-El módulo incluye scripts para conectar con las principales plataformas publicitarias:
-
-- `google-analytics.py`: Extracción de datos de Google Analytics 4
-- `facebook-ads.py`: Conexión con la API de Facebook Ads
-- `google-ads.py`: Integración con Google Ads API
+[Ver curriculum completo](curriculum.md)
 
 ## 🛠️ Requisitos Previos
 
-- Python 3.8 o superior (Usar homebrew para instalarlo en Mac)
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- pip (gestor de paquetes de Python)
-- Credenciales de acceso a las APIs correspondientes
+### Software Requerido
+- Python 3.8 o superior
+- Visual Studio Code
+- Jupyter notebook extension
+- Git
 
-## ⚙️ Instalación
-
-1. Clonar el repositorio:
+### Instalación de Python
 ```bash
-git clone https://github.com/Metuendus/ads-ninja-python.git
+# macOS (usando Homebrew)
+brew install python
+
+# Windows
+# Descargar el instalador desde python.org
 ```
-2. Instalar dependencias:
+
+### Dependencias del Proyecto
 ```bash
-cd ads-ninja-python
+# Crear entorno virtual
+python -m venv venv
+
+# Activar entorno virtual
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+
+# Instalar dependencias
 pip install -r requirements.txt
 ```
-3. Remplazar el archivo .env.example por .env y llenar con las credenciales correspondientes.
+
+## 🚀 Comenzando
+
+1. Clona este repositorio:
 ```bash
-cp .env.example .env
+git clone https://github.com/tu-usuario/ads-ninja-course.git
+cd ads-ninja-course
 ```
 
+2. Configura tu entorno de desarrollo siguiendo la [guía de instalación](setup.md)
+
+3. Abre los notebooks en orden, comenzando con `01_01_intro_programacion.ipynb`
+
+## 📝 Ejercicios y Proyectos
+
+- Cada módulo incluye ejercicios prácticos
+- Encontrarás datasets de ejemplo en la carpeta `/data`
+- El proyecto final integra todos los conceptos aprendidos
+
 ## 🤝 Contribuciones
-Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir los cambios que te gustaría realizar.
 
-## 📄 Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
+¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una sugerencia:
 
-## 👥 Autor
-José Carlos Corona
+1. Haz fork del repositorio
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+## 📜 Licencia
+
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+
+
+## ⭐️ Agradecimientos
+
+- A la comunidad de Python Marketing
+- Contribuidores y estudiantes del curso
+- Librerías open source utilizadas
+
+---
+Creado con ♥️ por José Carlos Corona

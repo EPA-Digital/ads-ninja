@@ -25,9 +25,6 @@
 | | Manejo de errores y almacenamiento | 04_05_error_handling.ipynb |
 | 5. Desarrollo de Dashboards con Streamlit | Introducción a Streamlit | 05_01_intro_streamlit.ipynb |
 | | Componentes básicos | 05_02_componentes_streamlit.ipynb |
-| | Visualización de datos en tiempo real | 05_03_viz_tiempo_real.ipynb |
-| | Filtros interactivos | 05_04_filtros_interactivos.ipynb |
-| | Deployment | 05_05_deployment.ipynb |
 | 6. Programación Orientada a Objetos | Fundamentos de POO | 06_01_fundamentos_poo.ipynb |
 | | Clases y objetos | 06_02_clases_objetos.ipynb |
 | | Herencia y polimorfismo | 06_03_herencia.ipynb |

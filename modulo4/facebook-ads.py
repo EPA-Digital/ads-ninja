@@ -8,6 +8,7 @@ import os
 # Cargar variables de entorno desde el archivo .env
 load_dotenv()
 
+    
 # Inicializar API
 FacebookAdsApi.init(
     access_token=os.getenv('FB_ACCESS_TOKEN')

@@ -29,16 +29,16 @@
 | | Clases y objetos | 06_02_clases_objetos.ipynb |
 | | Herencia y polimorfismo | 06_03_herencia.ipynb |
 | | Aplicaciones en marketing | 06_04_poo_marketing.ipynb |
-| 7. Mejores Prácticas y Recursos | Estructuras de código eficientes | 07_01_codigo_eficiente.ipynb |
-| | Control de versiones con Git | 07_02_git_basics.ipynb |
-| | Testing y debugging | 07_03_testing.ipynb |
-| | Documentación | 07_04_documentacion.ipynb |
-| 8. IA Generativa para Marketing | Fundamentos de LLMs | 08_01_fundamentos_llms.ipynb |
-| | APIs de LLMs | 08_02_apis_llms.ipynb |
-| | Desarrollo de agentes con crewAI | 08_03_crew_ai.ipynb |
-| | Casos prácticos de IA en marketing | 08_04_casos_practicos.ipynb |
+| 7. IA Generativa para Marketing | Fundamentos de LLMs con Python | 07_01_fundamentos_llms.ipynb |
+| | APIs de LLMs | 07_02_apis_llms.ipynb |
+| | Desarrollo de agentes con crewAI | 07_03_crew_ai.ipynb |
+| | Casos prácticos de IA en marketing | 07_04_casos_practicos.ipynb |
+| 8. Mejores Prácticas y Recursos | Estructuras de código eficientes | 08_01_codigo_eficiente.ipynb |
+| | Control de versiones con Git | 08_02_git_basics.ipynb |
+| | Testing y debugging | 08_03_testing.ipynb |
+| | Documentación | 08_04_documentacion.ipynb |
 
-Cada notebook incluirá:
+Cada notebook incluye:
 - Objetivos de aprendizaje
 - Explicaciones teóricas
 - Ejemplos de código

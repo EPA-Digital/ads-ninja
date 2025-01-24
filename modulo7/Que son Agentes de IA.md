@@ -8,7 +8,7 @@ La arquitectura cognitiva define cómo un sistema de IA "piensa" - es decir, el 
 - Mecanismos de decisión
 
 ## Niveles de Autonomía
-![autonomy-levels](modulo7/Screenshot-2024-06-28-at-7.33.10-PM.png)
+![autonomy-levels](https://github.com/EPA-Digital/ads-ninja/blob/master/modulo7/Screenshot-2024-06-28-at-7.33.10-PM.png)
 ### 1. Código Puro
 - Todo está hardcodeado
 - Sin toma de decisiones dinámica

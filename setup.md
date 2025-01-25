@@ -63,7 +63,7 @@ sudo apt-get install python3.8
 
 Recomendamos Visual Studio Code:
 
-1. Descarga VS Code desde [code.visualstudio.com](https://code.visualstudio.com/)
+1. Descarga VS Code desde [code.visualstudio.com](https://code.visualstudio.com/download)
 2. Instala las siguientes extensiones:
    - Python
    - Jupyter

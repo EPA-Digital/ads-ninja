@@ -36,11 +36,18 @@ El curso está organizado en 8 módulos, cada uno con notebooks interactivos que
 ## 🛠️ Requisitos Previos
 
 ### Software Requerido
+- Homebrew (Para MacOS)
 - Python 3.8 o superior
 - Visual Studio Code
 - Jupyter notebook extension
 - Git
 
+### Instalación de Homebrew
+Abrir la terminal de mac (command + enter y escribir terminal) y correr el siguiente comando:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
 ### Instalación de Python
 ```bash
 # macOS (usando Homebrew)
@@ -50,20 +57,13 @@ brew install python
 # Descargar el instalador desde python.org
 ```
 
-### Dependencias del Proyecto
+### Instalación Git
 ```bash
-# Crear entorno virtual
-python -m venv venv
-
-# Activar entorno virtual
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
-
-# Instalar dependencias
-pip install -r requirements.txt
+brew install git
 ```
+### Instalación de Visual Studio Code
+Descargar desde el sitio web [code.visualstudio.com](https://code.visualstudio.com/download)
+
 
 ## 🚀 Comenzando
 
@@ -72,10 +72,9 @@ pip install -r requirements.txt
 git clone https://github.com/tu-usuario/ads-ninja-course.git
 cd ads-ninja-course
 ```
+1. Configura tu entorno de desarrollo siguiendo la [guía de instalación](setup.md)
 
-2. Configura tu entorno de desarrollo siguiendo la [guía de instalación](setup.md)
-
-3. Abre los notebooks en orden, comenzando con `01_01_intro_programacion.ipynb`
+2. Abre los notebooks en orden, comenzando con `01_01_intro_programacion.ipynb`
 
 ## 📝 Ejercicios y Proyectos
 
@@ -103,6 +102,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 - A la comunidad de Python Marketing
 - Contribuidores y estudiantes del curso
 - Librerías open source utilizadas
-
----
-Creado con ♥️ por José Carlos Corona

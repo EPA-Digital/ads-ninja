@@ -8,3 +8,5 @@ google-ads-api-report-fetcher
 nbformat
 statsmodels
 plotly
+crewai
+ipykernel
